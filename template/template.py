@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Author : Me <me@foo.com>
-Date   : today
+Author : Michele Minervini
+Date   : /07/2022
 Purpose: Rock the Casbah
 """
 
